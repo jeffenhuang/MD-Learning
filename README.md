@@ -1,4 +1,4 @@
-# tutorials for Molecular Dynamics Simulation
+# Tutorials for Molecular Dynamics Simulation
 
 Notebooks related to Molecular Dynamics Simulation on crystalline structure material, etc.
 
