@@ -8,3 +8,5 @@ https://icme.hpc.msstate.edu/mediawiki/index.php/LAMMPS_Tutorial_1
 This is a private training module.
 
 Hold the update of this training course.
+
+Direct learn.
